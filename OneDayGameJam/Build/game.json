@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "proj",
+"productName": "PlatformGame",
 "productVersion": "1.0",
 "dataUrl": "game.data.unityweb",
 "wasmCodeUrl": "game.wasm.code.unityweb",
